@@ -9,10 +9,8 @@ Software Requirements:
 Usage:
 1. To run Canny edge detection put all images in CannyStill folder.
 2. To run other edge detection methods, put all images in same folder as the source files.
-   
    Example usage:
    g++ filename.cpp -o filename
    ./filename input_image.raw output_image.raw BytesPerPixel width height
-   
 3. To run structured edge detection and evaluation insert all input images in edges-master folder. Execute edgesDemo.m for edge detection and                                                                                                                                 new_edgeeval.m for evaluation.  
 
