@@ -1,1 +1,1 @@
-# Image Demosaicing, histogram equalization and denoising
+## Image Demosaicing, histogram equalization and denoising
