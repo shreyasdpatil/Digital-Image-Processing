@@ -2,8 +2,8 @@
 Description:
 In this project I have implemented classical edge detection methods like Canny, Sobel and Structured edge detector and evaluated their performance. Halftoning methods like Dithering, Random thresholding, Floyd-Steinberg, JJN, and Stucki are implemeted for grayscale images. Separable error diffusion and MBVQ error diffusion halftoning methods for color images have been implemented.
 
-System Requirements:
-1. Any C++ coding platform(JetBrains Clion used fro this project)
+Software Requirements:
+1. Any C++ coding platform(JetBrains Clion used for this project)
 2. Matlab R2016b is preferable or higher.
 
 Usage:
