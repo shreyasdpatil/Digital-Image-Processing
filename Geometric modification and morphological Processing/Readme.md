@@ -1,13 +1,14 @@
-## Geometric modification and morphological processing
-Description: In this project I have implemented various geometric transformations for different applications. Lens distortion introduced in images has been corrected using reverse address mapping technique. Morphological operations like thinning, shrinking and skeletonizing have been implemented and utilized for object anlysis in an image.
+# Geometric modification and morphological processing
+### Description: 
+In this project I have implemented various geometric transformations for different applications. Lens distortion introduced in images has been corrected using reverse address mapping technique. Morphological operations like thinning, shrinking and skeletonizing have been implemented and utilized for object anlysis in an image.
 
-Requirements:
+### Requirements:
 1) Any IDE for python scripting(spyder used)
 2) IDE for C++ coding(Clion used)
 3) gcc/g++ compiler
 4) Matlab 2016b+
 
-Usage:
+### Usage:
 1. For geometric modification, run following python files for each subimages as below
    python geom-trans-img1.py
    python geom-trans-img2.py
