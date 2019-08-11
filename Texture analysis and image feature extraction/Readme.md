@@ -4,3 +4,11 @@
 2. Region based texture segmentation is done with Laws filters for extracting features from each image pixel. K-means is then used for clustering similar pixels together and segmenting images into different regions. 
 3. SIFT is used for image feature extraction and matching.
 4. Image classification with bag of visual words is implemented.
+
+### Requirements:
+1) VScode/spyder
+2) Python 3.6
+3) scikit-learn
+4) maplotlib
+5) 
+
