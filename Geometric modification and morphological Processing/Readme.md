@@ -13,8 +13,8 @@ Usage:
    python geom-trans-img2.py
    python geom-trans-img3.py
 
-  To get the final transformed image run,
-  python geom-trans.py
+   To get the final transformed image run,
+   python geom-trans.py
   
 2. To run the lens distortion correction script
    python lens-distortion-correction.py
