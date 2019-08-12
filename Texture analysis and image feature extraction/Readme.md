@@ -10,5 +10,21 @@
 2) Python 3.6
 3) scikit-learn
 4) maplotlib
-5) 
+5) opencv-python
+6) numpy
+
+### Usage:
+Run the following commands to get results
+
+For texture classification:
+python texture-classification.py
+
+For texture segmentation:
+python texture-segmentation.py
+
+For image matching;
+python SIFT-image-matching.py
+
+For image classification:
+
 
