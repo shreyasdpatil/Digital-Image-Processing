@@ -21,7 +21,7 @@ In this project I have implemented various geometric transformations for differe
    
    `python geom-trans.py`
   
-2. To run the lens distortion correction scrip
+2. To run the lens distortion correction script
    ```
    python lens-distortion-correction.py
    ```
