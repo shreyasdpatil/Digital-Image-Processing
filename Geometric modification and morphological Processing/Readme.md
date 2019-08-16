@@ -21,27 +21,37 @@ In this project I have implemented various geometric transformations for differe
    
    `python geom-trans.py`
   
-2. To run the lens distortion correction script
+2. To run the lens distortion correction scrip
+   ```
    python lens-distortion-correction.py
+   ```
   
 3. For morphological processing use the below commands
    For shrinking:
+   ```
    g++ shrinking.cpp
    ./a.out pattern1.raw pattern1_shrink_out.raw 1 375 375
+   ```
    
    For thinning:
+   ```
    g++ thinning.cpp
    ./a.out pattern1.raw pattern1_thin_out.raw 1 375 375
+   ```
    
    For skeletonizing:
+   ```
    g++ skeletonizing1.cpp
    ./a.out pattern1.raw pattern1_skele_out.raw 1 375 375
+   ```
    
    Replace pattern1 with filename of input raw images.
    
 4. For defect detection run
+   ```
    g++ defect-detection.cpp
    ./a.out deer.raw deer_out.raw 1 500 690
+   ```
    deer.raw is the input image name and deer_out.raw is the ouput image name.
    
 5. For object analysis in image(in this case rice grains in the image) run object_analysis.m file in Matlab.
