@@ -3,10 +3,10 @@
 In this project I have implemented various geometric transformations for different applications. Lens distortion introduced in images has been corrected using reverse address mapping technique. Morphological operations like thinning, shrinking and skeletonizing have been implemented and utilized for object anlysis in an image.
 
 ### Requirements:
-1) Any IDE for python scripting(spyder used)
-2) IDE for C++ coding(Clion used)
-3) gcc/g++ compiler
-4) Matlab 2016b+
+1. Any IDE for python scripting(spyder used)
+2. Any C++ coding platform(Jetbrains Clion IDE used)
+3. gcc/g++ compiler
+4. Matlab 2016b+
 
 ### Usage:
 1. For geometric modification, run following python files for each subimages as below
