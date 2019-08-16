@@ -10,7 +10,6 @@ This repository contains C++ code for bilinear demosaicing and MHC demosaicing a
 Use below command to run each file.
 
 `g++ filename.cpp
-
 ./filename inputImageName outputImageName BytesPerPixel Width Height`
 
 
