@@ -33,7 +33,7 @@ python SIFT-image-matching.py
 
 For image classification:
 ```
-python bag of words image matching.py
+python "bag of words image matching.py"
 ```
 
 
