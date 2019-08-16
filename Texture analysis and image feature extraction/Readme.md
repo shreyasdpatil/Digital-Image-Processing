@@ -17,13 +17,19 @@
 Run the following commands to get results
 
 For texture classification:
+```
 python texture-classification.py
+```
 
 For texture segmentation:
+```
 python texture-segmentation.py
+```
 
-For image matching;
+For image matching:
+```
 python SIFT-image-matching.py
+```
 
 For image classification:
 
