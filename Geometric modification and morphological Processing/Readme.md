@@ -10,12 +10,14 @@ In this project I have implemented various geometric transformations for differe
 
 ### Usage:
 1. For geometric modification, run following python files for each subimages as below
-   python geom-trans-img1.py
+
+   ```python geom-trans-img1.py
    python geom-trans-img2.py
-   python geom-trans-img3.py
+   python geom-trans-img3.py```
 
    To get the final transformed image run,
-   python geom-trans.py
+   
+   `python geom-trans.py`
   
 2. To run the lens distortion correction script
    python lens-distortion-correction.py
